@@ -1,2 +1,2 @@
 # SchoolProject
-project that i do in school!
+project that I do in school!
